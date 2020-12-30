@@ -1,0 +1,6 @@
+base   aceeditorconf
+author Josep Cañellas
+email  jcanell4@ioc.cat
+date   2016-06-15
+name   Ace Editor configurator plugin
+desc   Ace editor configurator to overrite the pluguin
